@@ -1,4 +1,4 @@
-## Library Management System Project for OOP 2 Project
+## Library Management System Project
 The library management system aims to provide a convenient platform for librarians and book enthusiasts. It consists of an administrative interface for managing library resources, while users can easily navigate through the library's collection and conveniently pay fees online.
 
 **General Features:**
